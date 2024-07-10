@@ -13,16 +13,18 @@ jobs:
       contents: write
       pages: write
     steps:
-      # Snake Animation
+      # Checkout repository content
       - name: Checkout Repository
         uses: actions/checkout@v3
 
+      # Generate Snake Animation
       - name: Snake Animation
         uses: Platane/snk@v2
         with:
           github_user_name: IagoBCorrea
           svg_out_path: dist/github-contribution-grid-snake.svg
 
+      # Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
