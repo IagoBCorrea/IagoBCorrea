@@ -23,7 +23,7 @@
 
 <div>
 <a href = "mailto:iagobcorrea@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="Linkedin's Link!" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+<a href="www.linkedin.com/in/iago-barbosa-3698aa2a0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
 target="_blank"></a>
 
   
