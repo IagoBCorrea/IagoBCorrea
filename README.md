@@ -10,7 +10,7 @@ Estudante de Ciências de Dados pela EBAC e cursando bacharel em Sistemas de Inf
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IagoBCorrea&repo=CartorioEBAC.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IagoBCorrea&repo=PythonFinalProject_EBAC.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Linguagens utilizadas
