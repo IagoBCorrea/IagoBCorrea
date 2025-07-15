@@ -1,7 +1,7 @@
 ## Olá! 👋
 
 ###### Sobre Iago Barbosa
-Estudante de Ciências de Dados pela EBAC e cursando bacharel em Sistemas de Informação pela UNINTER.
+Formado em Ciências de Dados pela EBAC e cursando bacharel em Sistemas de Informação pela UNINTER.
 
 
 ### Detalhes
