@@ -9,10 +9,9 @@ Strong background in software development and data analysis.
 
 ## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IagoBCorrea&show_icons=true&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IagoBCorrea&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IagoBCorrea&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IagoBCorrea&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=IagoBCorrea&theme=tokyonight&hide_border=true)
 
