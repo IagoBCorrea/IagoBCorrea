@@ -1,8 +1,7 @@
 ## Olá! 👋
 
 ###### Sobre Iago Barbosa
-Formado em Ciências de Dados pela EBAC e cursando bacharel em Sistemas de Informação pela UNINTER.
-
+Back-End Developer estudando Sistemas de Informação e com experiência em desenvolvimento de APIs REST e aplicações escaláveis utilizando Python (FastAPI, Django, Pydantics) e Node.js, além de conhecimento em C# e JavaScript. Atuo também com SQL para modelagem e manipulação de dados em bancos relacionais, aplicando boas práticas de organização, performance e integração de sistemas. Possuo experiência complementar em análise de dados com Pandas, PySpark e Power BI, unindo fundamentos de engenharia e ciência de dados para construir soluções robustas e orientadas a dados.
 
 ### Detalhes
 
