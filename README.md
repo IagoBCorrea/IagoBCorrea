@@ -3,7 +3,7 @@
 ## 🚀 About Me
 Studying Information Systems.
 Back-End Developer focused on scalable APIs, system integration and data-driven solutions.  
-Strong background in software development and data analysis.
+Strong background in software development and data science / analysis.
 
 ---
 
