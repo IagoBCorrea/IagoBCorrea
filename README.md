@@ -1,21 +1,50 @@
-## Olá! 👋
+# 👨‍💻 Iago Barbosa
 
-###### Sobre Iago Barbosa
-Back-End Developer estudando Sistemas de Informação e com experiência em desenvolvimento de APIs REST e aplicações escaláveis utilizando Python (FastAPI, Django, Pydantics) e Node.js, além de conhecimento em C# e JavaScript. Atuo também com SQL para modelagem e manipulação de dados em bancos relacionais, aplicando boas práticas de organização, performance e integração de sistemas. Possuo experiência complementar em análise de dados com Pandas, PySpark e Power BI, unindo fundamentos de engenharia e ciência de dados para construir soluções robustas e orientadas a dados.
+## 🚀 About Me
+Studying Information Systems.
+Back-End Developer focused on scalable APIs, system integration and data-driven solutions.  
+Strong background in software development and data analysis.
 
-### Detalhes
+---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IagoBCorrea&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub Stats
 
-### Projetos
+![Iago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IagoBCorrea&show_icons=true&theme=tokyonight&hide_border=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IagoBCorrea&repo=PythonFinalProject_EBAC&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IagoBCorrea&layout=compact&theme=tokyonight&hide_border=true)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=IagoBCorrea&theme=tokyonight&hide_border=true)
 
-### Linguagens utilizadas
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IagoBCorrea&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 🧠 Main Tech Stack
 
-### Contatos
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/iago-barbosa-dados/)
+---
+
+### ⚙️ Frameworks & Tools
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🎯 Focus
+- Back-End Development
+- REST API Design
+- Data Engineering
+- Performance & Automation
+
+---
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Iago%20Barbosa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-barbosa-dados/)
