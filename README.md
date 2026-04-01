@@ -1,7 +1,7 @@
 # 👨‍💻 Iago Barbosa
 
 ## 🚀 About Me
-Studying Information Systems.
+Studying systems analysis and development (ADS).
 Back-End Developer focused on scalable APIs, system integration and data-driven solutions.  
 Strong background in software development and data science / analysis.
 
